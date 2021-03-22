@@ -1,10 +1,10 @@
 # Simple-News-Scraper
 Simple script to scrape new articles
 
-Enter the number of websites then the websites,a set of articles from that website will be scraped
+Enter the number of websites then the websites, A set of articles from that website will be automatically scraped
 you will get the following variables in the form of csv
 
--url
+-Url
 
 -Published date
 
@@ -14,11 +14,11 @@ you will get the following variables in the form of csv
 
 -Text
 
--keywords of text
+-Keywords 
 
--tags
+-Tags
 
--vader sentiment analysis
+-VADER sentiment analysis
 
--textblob sentiment analysis
+-Textblob sentiment analysis
 
