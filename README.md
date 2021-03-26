@@ -1,5 +1,5 @@
 # Simple-News-Scraper
-Simple script to scrape new articles
+Simple script to scrape news websites
 
 Enter the number of websites then the websites, A set of articles from that website will be automatically scraped
 you will get the following variables in the form of csv
